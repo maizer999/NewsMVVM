@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Native News app for iOS with Swift
 
-A sample iOS application displays a news feed from New York Times  with an MVVM design patern
+A sample iOS application displays a news feed from New York Times  using an MVVM design patern
 
 
 ## How to use this repository
