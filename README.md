@@ -29,7 +29,7 @@ This can be achieved by minimum code using bi-directional data binding.
 But … iOS has no two way binding mechanism available out of the box
 
 
-## Test case
+## Unit tests
 
 We add number of test cases to check the response 
 
