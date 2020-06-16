@@ -6,7 +6,7 @@ A sample iOS application displays a news feed from New York Times  with an MVVM 
 
 ## How to use this repository
 
-1. [Download and Install last Xcode version 
+1. Download and Install last Xcode version 
  
 2. Open Terminal.
      
